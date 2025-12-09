@@ -1,7 +1,8 @@
-import ipfsStorage from "./abis/IPFS_Tickets.json";
+import ticketGoABI from "./abis/ticketGO.json";
 
+// Exporta el objeto para que la app lo pueda leer
 const abis = {
-  ipfs: ipfsStorage,
+  ticketGo: ticketGoABI
 };
 
 export default abis;
