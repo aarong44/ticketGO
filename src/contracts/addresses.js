@@ -1,5 +1,5 @@
 const addresses = {
-  ipfs: "0x693dac3d3d15507Bd9Daf1F55b81FfEC563ff45D",
+  ticketGo: "0x1Fee1B93c62c6Af06807178c3a517D3b798eeD85",
 };
 
 export default addresses;
